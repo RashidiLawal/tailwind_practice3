@@ -1,0 +1,10 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+.btn {
+@apply py-4}
+
+input::placeholder{
+    color: aqua;
+}

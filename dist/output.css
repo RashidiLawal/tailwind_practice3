@@ -1,0 +1,20 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+.btn{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+input::-moz-placeholder{
+    color: aqua;
+}
+
+input:-ms-input-placeholder{
+    color: aqua;
+}
+
+input::placeholder{
+    color: aqua;
+}
